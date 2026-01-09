@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Home](/) | [Projects](/projects) | [Resume](/resume)
+
 # Hello! I'm Vincent 👋
 
 I'm currently a Computer Science and Engineering student at UCI. I am interested in embedded systems, hardware and firmware.
