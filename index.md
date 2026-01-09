@@ -2,7 +2,11 @@
 layout: default
 ---
 
-[Home](/) | [Projects](/projects) | [Resume](/resume)
+<div style="margin-bottom: 30px;">
+  <a href="/" style="margin-right: 15px;">Home</a>
+  <a href="/projects" style="margin-right: 15px;">Projects</a>
+  <a href="/resume">Resume</a>
+</div>
 
 # Hello! I'm Vincent 👋
 
